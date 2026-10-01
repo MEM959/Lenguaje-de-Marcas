@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Animals>
+<Animal1>
+  <Nom>TauroBlanc</Nom>
+  <Tipus>Peix</Tipus>
+  <Habitat>Oceànic</Habitat>
+  <Grandaria>6.4 metres de longitud, 1900 quilograms de pes</Grandaria>
+  <EstatConservacio>En perill</EstatConservacio>
+  <Caracteristiques>
+  Depredador superior. 
+  Temut als oceans per la seva grandària i ferocitat
+  </Caracteristiques>
+  </Animal1>
+  
+ <Animal2>
+ <Nom>BalenaBlava</Nom>
+  <Tipus>Mamífer marí</Tipus>
+  <Habitat>Oceànic</Habitat>
+  <Grandaria>30 metres de longitud, 200,000 quilograms de pes</Grandaria>
+  <EstatConservacio>En perill crític</EstatConservacio>
+  <Caracteristiques>
+  L'animal més gran del planeta
+S'alimenta principalment de krill
+  </Caracteristiques>
+  </Animal2>
+  
+  <Animal3>
+  <Nom>TortugaVerda</Nom>
+  <Tipus>Rèptil</Tipus>
+  <Habitat>Marí</Habitat>
+  <Grandaria>1.5 metres de longitud, 150 quilograms de pes</Grandaria>
+  <EstatConservacio>Vulnerable</EstatConservacio>
+  <Caracteristiques>
+S'alimenta principalment d'algues marines
+Realitza migracions de milers de quilòmetres  
+  </Caracteristiques>
+  </Animal3>
+  
+</Animals>
