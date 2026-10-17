@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modul cicle="ASIX">
+  <dades_assignatura>
+    <nom>Llenguatges de Marques i Sistemes de Gestió d'Informació</nom>
+    <hores_setmanals>4</hores_setmanals>
+    <caracter>obligatori</caracter>
+    <periode>
+      <inici>2023-09-25</inici>
+      <fi>2024-06-30</fi>
+    </periode>
+  </dades_assignatura>
+  <alumnes>
+    <alumne nif="12345678A">
+      <nom_complet>Carles Canals Gozálvez</nom_complet>
+      <contacte>
+        <telefon>971000000</telefon>
+        <email>cgc@paucasesnovescifp.cat</email>
+      </contacte>
+      <adreca>
+        <carrer>C/ Sense Nom, 1</carrer>
+        <poblacio>Inca</poblacio>
+        <codi_postal>07300</codi_postal>
+      </adreca>
+      <expedient>
+        <faltes_assistencia>10</faltes_assistencia>
+        <nota>no apte</nota>
+      </expedient>
+    </alumne>
+    <alumne nif="87654321Z">
+      <nom_complet>Joana Quetglas Caimari</nom_complet>
+      <contacte>
+        <telefon>971123456</telefon>
+        <email>qcj@paucasesnovescifp.cat</email>
+      </contacte>
+      <adreca>
+        <carrer>C/ Sense sortida, 3</carrer>
+        <poblacio>Sóller</poblacio>
+        <codi_postal>07100</codi_postal>
+      </adreca>
+      <expedient>
+        <faltes_assistencia>0</faltes_assistencia>
+        <nota>apte</nota>
+      </expedient>
+    </alumne>
+  </alumnes>
+</modul>
+
+
+JSON:
+
+
+{
+  "modul": {
+    "cicle": "ASIX",
+    "nom": "Llenguatges de Marques i Sistemes de Gestió d'Informació",
+    "hores_setmanals": 4,
+    "caracter": "obligatori",
+    "periode": {
+      "data_inici": "2023-09-25",
+      "data_fi": "2024-06-30"
+    },
+    "alumnes": [
+      {
+        "nif": "12345678A",
+        "nom_complet": "Carles Canals Gozálvez",
+        "contacte": {
+          "telefon": "971000000",
+          "email": "cgc@paucasesnovescifp.cat"
+        },
+        "adreca": {
+          "carrer": "C/ Sense Nom, 1",
+          "poblacio": "Inca",
+          "codi_postal": "07300"
+        },
+        "expedient": {
+          "faltes_assistencia": 10,
+          "nota": "no apte"
+       }    },   {
+        "nif": "87654321Z",
+        "nom_complet": "Joana Quetglas Caimari",
+        "contacte": {
+          "telefon": "971123456",
+          "email": "qcj@paucasesnovescifp.cat"
+        },
+        "adreca": {
+          "carrer": "C/ Sense sortida, 3",
+          "poblacio": "Sóller",
+          "codi_postal": "07100"
+        },
+        "expedient": {
+          "faltes_assistencia": 0,
+          "nota": "apte"
+        }      }    ]  } }
