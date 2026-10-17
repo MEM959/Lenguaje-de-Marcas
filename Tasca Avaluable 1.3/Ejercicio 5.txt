@@ -1,0 +1,31 @@
+{
+"enquestes":[
+{
+"id": 1,
+"titol": "Enquesta qualitat de classe",
+"activa": true,
+"preguntes": [
+{
+	"ordre": 1,
+	"text": "Com valoraries el ambient a classe ?",
+	"tipus": "opcio_multiple",
+	"opcions": ["Excel·lent", "Bon", "Regular", "Dolent"]
+},{
+	"ordre": 2,
+	"text": "Que creus que pot millorar ?:",
+	"tipus": "text_lliure"
+} ] } ,{
+"id": 2,
+"titol": "Enquesta de aprenentatge",
+"activa": false,
+"preguntes": [
+{
+	"ordre": 1,
+	"text": "Consideres que pots assolir el coinexements correctament a classe ?",
+	"tipus": "opcio_multiple",
+	"opcions": ["Si", "No", "Si, pero fent feina a casa"]
+},{
+	"ordre": 2,
+	"text": "Que cambiaries del metode de ensenyament?:",
+	"tipus": "text_lliure"
+} ] } ] }

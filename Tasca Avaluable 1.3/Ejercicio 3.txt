@@ -1,0 +1,18 @@
+{
+  "Botiga": [
+    {
+      "Nom": "E-Bike X",
+      "Tipus": "Bicicleta",
+      "Autonomia_km": 120,
+      "Preu_eur": 1299
+    },   {
+      "Nom": "City-Scoot",
+      "Tipus": "Patinet",
+      "Autonomia_km": 45,
+      "Preu_eur": 549
+    },    {
+      "Nom": "Eco-Car Z",
+      "Tipus": "Cotxe",
+      "Autonomia_km": 410,
+      "Preu_eur": 31990
+    }  ] }

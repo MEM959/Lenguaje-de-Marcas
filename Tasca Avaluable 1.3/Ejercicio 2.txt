@@ -1,0 +1,41 @@
+{
+  "Taula de Estudiants": [
+    {
+      "Estudiant": {
+        "Id": 201,
+        "Nom": "Anna",
+        "Cognom": "Serra",
+        "Email": "anna@example.com"
+      }   },  {
+      "Estudiant": {
+        "Id": 202,
+        "Nom": "Biel",
+        "Cognom": "Amengual",
+        "Email": "biel@example.com"
+      }   },   {
+      "Estudiant": {
+        "Id": 203,
+        "Nom": "Joan",
+        "Cognom": "Garcia",
+        "Email": "joan@example.com"
+      }    }  ],
+  "Taula de Matriculacions": [
+    {
+      "Matriculacio": {
+        "Id": 601,
+        "StudentID": 201,
+        "Modul": "M06",
+        "Nota": 8.5
+      }    },    {
+      "Matriculacio": {
+        "Id": 602,
+        "StudentID": 202,
+        "Modul": "M06",
+        "Nota": 9.2
+      }   },  {
+      "Matriculacio": {
+        "Id": 603,
+        "StudentID": 203,
+        "Modul": "M06",
+        "Nota": 7.9
+      }    }   ] }
